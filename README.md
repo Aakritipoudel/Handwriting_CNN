@@ -1,1 +1,1 @@
-# Handwriting_CNN
+# Image_Classification
